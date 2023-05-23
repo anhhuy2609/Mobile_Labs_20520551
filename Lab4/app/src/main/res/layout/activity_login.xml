@@ -54,7 +54,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="14dp"
         android:background="@drawable/css_bg_txt"
-        android:inputType="textEmailAddress"
+        android:inputType="textPassword"
         android:maxLines="1"
         android:textSize="16sp"
         android:hint="Mật khẩu"
